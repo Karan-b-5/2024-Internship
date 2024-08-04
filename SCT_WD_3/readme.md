@@ -1,3 +1,5 @@
+# SCT_WD_4
+
 SkillCraft technology internship assignment - 03 (Tic Tac Toe game)
 
 Overview This project is a classic Tic Tac Toe game built using HTML, CSS, and JavaScript. It allows two players to play the game in a web browser with a visually appealing and interactive interface.
