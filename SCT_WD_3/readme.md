@@ -1,4 +1,4 @@
-# SCT_WD_4
+# SCT_WD_3
 
 SkillCraft technology internship assignment - 03 (Tic Tac Toe game)
 
